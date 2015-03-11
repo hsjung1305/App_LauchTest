@@ -1,0 +1,13 @@
+README for an app launching time test
+
+* Important information before run test
+ - Need to determine test app
+ - need to find JAVA package name and Main actibvity name for test
+   You can input these variables as below examples in test python file.
+   ex) APP_JAVA_PKG = 'com.redlicense.benchmark.sqlite'
+       APP_MAIN_ACTIVITY = '.Main'
+
+To run the test, you should just do as below:
+
+python app_launching_latency.py
+

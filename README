@@ -1,7 +1,7 @@
 README for an app launching time test
 
 * Important information before run test
- - Need to determine test app
+ - Need to determine test app and install it
  - need to find JAVA package name and Main actibvity name for test
    You can input these variables as below examples in test python file.
    ex) APP_JAVA_PKG = 'com.redlicense.benchmark.sqlite'
